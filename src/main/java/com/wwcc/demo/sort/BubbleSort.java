@@ -5,6 +5,7 @@ import com.alibaba.fastjson.JSON;
 /**
  * @author wwcc
  * @date 2025/01/07 20:46:19
+ * @description 冒泡排序 可以理解为不断的将最大的数冒上去
  */
 public class BubbleSort {
 
